@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.softlab.compose_tutorial"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         minSdk = 29
